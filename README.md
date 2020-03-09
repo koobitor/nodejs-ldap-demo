@@ -1,10 +1,16 @@
 ## LDAP Server
 
-### Start Development
+### Install Dependency
 
 ```
 yarn
-yarn dev
+```
+
+### Start Server & Client
+
+```
+yarn server
+yarn client
 ```
 
 ### Test Connection
