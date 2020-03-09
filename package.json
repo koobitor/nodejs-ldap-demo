@@ -1,0 +1,16 @@
+{
+  "name": "ldap-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon -w server.js server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ldapjs": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
